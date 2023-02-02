@@ -1,2 +1,2 @@
 # screen
- jus  info_screen's 
+ just some info_screen's  maker in flutter 
