@@ -3,7 +3,7 @@
 
 ### 6. **flutter-auth-demo**  
 
-```markdown
+
 # Flutter Authentication Demo
 
 ## Overview
